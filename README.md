@@ -53,14 +53,13 @@ Proporcionar a los estudiantes una visión general y fundamentada de los concept
 
 ## Criterios de evaluación
 
-- **Examen:** 
-- **Tareas:** 
-- **Prácticas/Exposiciones:** 
+- **Examen: 50%** 
+- **Tareas y Prácticas/Exposiciones: 50%** 
 
 ---
 
 ## Asesorías
-
+- viernes de 1 pm a 2 pm
 
 
 ---
