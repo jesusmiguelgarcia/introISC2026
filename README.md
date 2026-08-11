@@ -66,4 +66,4 @@ Proporcionar a los estudiantes una visión general y fundamentada de los concept
 
 ## Acuerdos de Convivencia
 
-*(Espacio para agregar los acuerdos)*
+[*(ver acuerdos de convivencia)*](Acuerdos%20de%20convivencia%20-%202026.pdf)
